@@ -1,5 +1,7 @@
 # mi_card
 
+## Special Thanks to Angela Yu
+
 A new Flutter project.
 
 ## Getting Started
