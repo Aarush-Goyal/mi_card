@@ -33,6 +33,7 @@ class MyApp extends StatelessWidget {
                   "Aarush Goyal",
                   style: TextStyle(
                     fontSize: 40,
+                    fontFamily: "Raleway",
                     fontWeight: FontWeight.bold,
                     color: Colors.white,
                   ),
@@ -42,6 +43,7 @@ class MyApp extends StatelessWidget {
                   "Full-Stack Web Developer",
                   style: TextStyle(
                     fontSize: 20,
+                    fontFamily: "Raleway",
                     color: Colors.white,
                   ),
                   textAlign: TextAlign.center,
@@ -51,6 +53,7 @@ class MyApp extends StatelessWidget {
                     "📨 goyalaarush92@gmail.com",
                     style: TextStyle(
                       fontSize: 16,
+                      fontFamily: "Raleway",
                       color: Colors.grey[900],
                     ),
                     textAlign: TextAlign.center,
@@ -69,6 +72,7 @@ class MyApp extends StatelessWidget {
                     "📞 +91 877 966 2139",
                     style: TextStyle(
                       fontSize: 16,
+                      fontFamily: "Raleway",
                       color: Colors.grey[900],
                     ),
                     textAlign: TextAlign.center,
